@@ -1,0 +1,81 @@
+<div id="carouselExampleControls" class="carousel slide " data-ride="carousel" style="padding-bottom: 10px;padding-top: 10px;">
+  <div class="carousel-inner container">
+    <div class="carousel-item" *ngFor="let item of anamolyData;let k = index" [ngClass]="k == 0 ? 'item active' : 'item'">
+      <div class="row" style="padding-left: 50%;">
+        Day + {{k+1}}
+      </div>
+      <div class="row" style="    padding-left: 70px;">
+        <div class="col-lg-4 col">
+          <div>
+            <div>Windows</div>
+            <div style="display: flex;">
+              <div style="border: 2px solid red;
+              border-bottom: 0;
+              border-left: 0;
+              border-top: 0;
+              padding-right: 15px;">
+                40
+              </div>
+              <div style="padding-left: 15px;">
+                40
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col">
+          <div>
+            <span>Linux</span>
+            <div style="display: flex;">
+              <div style="border: 2px solid red;
+              border-bottom: 0;
+              border-left: 0;
+              border-top: 0;
+              padding-right: 15px;">
+                40
+              </div>
+              <div style="padding-left: 15px;">
+                40
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col">
+          <div>
+            <span>Network</span>
+            <div style="display: flex;">
+              <div style="border: 2px solid red;
+              border-bottom: 0;
+              border-left: 0;
+              border-top: 0;
+              padding-right: 15px;">
+                40
+              </div>
+              <div style="padding-left: 15px;">
+                40
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <a
+    class="carousel-control-prev"
+    href="#carouselExampleControls"
+    role="button"
+    data-slide="prev"
+  >
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+
+    <span class="sr-only">Previous</span>
+  </a>
+  <a
+    class="carousel-control-next"
+    href="#carouselExampleControls"
+    role="button"
+    data-slide="next"
+  >
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>

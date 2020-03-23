@@ -1,0 +1,49 @@
+<div>
+  <mat-tab-group>
+    <mat-tab>
+      <ng-template mat-tab-label>
+        All
+      </ng-template>
+      <h2>WINDOWS</h2>
+      <app-data-card-component [heroes]="SlicedValues"></app-data-card-component>
+      <h2>LINUX</h2>
+      <app-data-linux-component [heroes]="SlicedValues"></app-data-linux-component>
+      <h2>NETWORK</h2>
+      <app-data-network-component [heroes]="SlicedValues"></app-data-network-component>
+    </mat-tab>
+    <mat-tab>
+      <ng-template mat-tab-label>
+        Windows
+      </ng-template>
+      <div>
+        <app-data-card-component [heroes]="SlicedValues"></app-data-card-component>
+        <div style="display: flex;">
+          <app-cpu-utilization-graph style="padding-right: 50px;"></app-cpu-utilization-graph>
+          <app-ticket-counter-graph style="padding-left: 50px;"></app-ticket-counter-graph>
+
+        </div>
+
+      </div>
+
+    </mat-tab>
+    <mat-tab>
+      <ng-template mat-tab-label>
+        Linux
+      </ng-template>
+      <app-data-linux-component [heroes]="SlicedValues"></app-data-linux-component>
+    </mat-tab>
+    <mat-tab>
+      <ng-template mat-tab-label>
+        Network
+      </ng-template>
+      <div>
+        <app-data-network-component [heroes]="SlicedValues"></app-data-network-component>
+      <div style="display: flex;">
+        <app-windows-memory-utilization-graph></app-windows-memory-utilization-graph>
+        <div style="height: 250px;"><p></p></div>
+      </div>
+      </div>
+      
+    </mat-tab>
+  </mat-tab-group>
+</div>

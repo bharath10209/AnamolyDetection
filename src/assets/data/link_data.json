@@ -1,0 +1,1196 @@
+[
+    {
+       "Date": "6/1/2019",
+       "Predicted_Value": 18,
+       "Actual_Value": 18,
+       "Upper_Bond": 54.72183911
+    },
+    {
+       "Date": "6/2/2019",
+       "Predicted_Value": "0",
+       "Actual_Value": "0",
+       "Upper_Bond": 53.92183911
+    },
+    {
+       "Date": "6/3/2019",
+       "Predicted_Value": 16,
+       "Actual_Value": 16,
+       "Upper_Bond": 53.88850577
+    },
+    {
+       "Date": "6/4/2019",
+       "Predicted_Value": 17,
+       "Actual_Value": 17,
+       "Upper_Bond": 53.65517244
+    },
+    {
+       "Date": "6/5/2019",
+       "Predicted_Value": 12,
+       "Actual_Value": 12,
+       "Upper_Bond": 52.98850577
+    },
+    {
+       "Date": "6/6/2019",
+       "Predicted_Value": 34,
+       "Actual_Value": 34,
+       "Upper_Bond": 53.72183911
+    },
+    {
+       "Date": "6/7/2019",
+       "Predicted_Value": 9,
+       "Actual_Value": 9,
+       "Upper_Bond": 52.35517244
+    },
+    {
+       "Date": "6/8/2019",
+       "Predicted_Value": 5,
+       "Actual_Value": 5,
+       "Upper_Bond": 51.62183911
+    },
+    {
+       "Date": "6/9/2019",
+       "Predicted_Value": "0",
+       "Actual_Value": "0",
+       "Upper_Bond": 51.02183911
+    },
+    {
+       "Date": "6/10/2019",
+       "Predicted_Value": 18,
+       "Actual_Value": 18,
+       "Upper_Bond": 50.88850577
+    },
+    {
+       "Date": "6/11/2019",
+       "Predicted_Value": 19,
+       "Actual_Value": 19,
+       "Upper_Bond": 51.15517244
+    },
+    {
+       "Date": "6/12/2019",
+       "Predicted_Value": 21,
+       "Actual_Value": 21,
+       "Upper_Bond": 51.32183911
+    },
+    {
+       "Date": "6/13/2019",
+       "Predicted_Value": 51,
+       "Actual_Value": 51,
+       "Upper_Bond": 52.62183911
+    },
+    {
+       "Date": "6/14/2019",
+       "Predicted_Value": 13,
+       "Actual_Value": 13,
+       "Upper_Bond": 52.55517244
+    },
+    {
+       "Date": "6/15/2019",
+       "Predicted_Value": 16,
+       "Actual_Value": 16,
+       "Upper_Bond": 52.88850577
+    },
+    {
+       "Date": "6/16/2019",
+       "Predicted_Value": 5,
+       "Actual_Value": 5,
+       "Upper_Bond": 52.78850577
+    },
+    {
+       "Date": "6/17/2019",
+       "Predicted_Value": 17,
+       "Actual_Value": 17,
+       "Upper_Bond": 52.62183911
+    },
+    {
+       "Date": "6/18/2019",
+       "Predicted_Value": 7,
+       "Actual_Value": 7,
+       "Upper_Bond": 52.58850577
+    },
+    {
+       "Date": "6/19/2019",
+       "Predicted_Value": 9,
+       "Actual_Value": 9,
+       "Upper_Bond": 52.52183911
+    },
+    {
+       "Date": "6/20/2019",
+       "Predicted_Value": 10,
+       "Actual_Value": 10,
+       "Upper_Bond": 52.52183911
+    },
+    {
+       "Date": "6/21/2019",
+       "Predicted_Value": 5,
+       "Actual_Value": 5,
+       "Upper_Bond": 52.48850577
+    },
+    {
+       "Date": "6/22/2019",
+       "Predicted_Value": 5,
+       "Actual_Value": 5,
+       "Upper_Bond": 52.25517244
+    },
+    {
+       "Date": "6/23/2019",
+       "Predicted_Value": "0",
+       "Actual_Value": "0",
+       "Upper_Bond": 51.98850577
+    },
+    {
+       "Date": "6/24/2019",
+       "Predicted_Value": 7,
+       "Actual_Value": 7,
+       "Upper_Bond": 52.02183911
+    },
+    {
+       "Date": "6/25/2019",
+       "Predicted_Value": 12,
+       "Actual_Value": 12,
+       "Upper_Bond": 52.42183911
+    },
+    {
+       "Date": "6/26/2019",
+       "Predicted_Value": 14,
+       "Actual_Value": 14,
+       "Upper_Bond": 52.58850577
+    },
+    {
+       "Date": "6/27/2019",
+       "Predicted_Value": 10,
+       "Actual_Value": 10,
+       "Upper_Bond": 52.75517244
+    },
+    {
+       "Date": "6/28/2019",
+       "Predicted_Value": 9,
+       "Actual_Value": 9,
+       "Upper_Bond": 52.72183911
+    },
+    {
+       "Date": "6/29/2019",
+       "Predicted_Value": 21,
+       "Actual_Value": 21,
+       "Upper_Bond": 53.18850577
+    },
+    {
+       "Date": "6/30/2019",
+       "Predicted_Value": "0",
+       "Actual_Value": "0",
+       "Upper_Bond": 52.98850577
+    },
+    {
+       "Date": "7/1/2019",
+       "Predicted_Value": 18,
+       "Actual_Value": 18,
+       "Upper_Bond": 52.98850577
+    },
+    {
+       "Date": "7/2/2019",
+       "Predicted_Value": 17,
+       "Actual_Value": 17,
+       "Upper_Bond": 53.55517244
+    },
+    {
+       "Date": "7/3/2019",
+       "Predicted_Value": 41,
+       "Actual_Value": 41,
+       "Upper_Bond": 54.38850577
+    },
+    {
+       "Date": "7/4/2019",
+       "Predicted_Value": 13,
+       "Actual_Value": 13,
+       "Upper_Bond": 54.25517244
+    },
+    {
+       "Date": "7/5/2019",
+       "Predicted_Value": 12,
+       "Actual_Value": 12,
+       "Upper_Bond": 54.25517244
+    },
+    {
+       "Date": "7/6/2019",
+       "Predicted_Value": 20,
+       "Actual_Value": 20,
+       "Upper_Bond": 53.78850577
+    },
+    {
+       "Date": "7/7/2019",
+       "Predicted_Value": 4,
+       "Actual_Value": 4,
+       "Upper_Bond": 53.62183911
+    },
+    {
+       "Date": "7/8/2019",
+       "Predicted_Value": 8,
+       "Actual_Value": 8,
+       "Upper_Bond": 53.72183911
+    },
+    {
+       "Date": "7/9/2019",
+       "Predicted_Value": 19,
+       "Actual_Value": 19,
+       "Upper_Bond": 54.35517244
+    },
+    {
+       "Date": "7/10/2019",
+       "Predicted_Value": 15,
+       "Actual_Value": 15,
+       "Upper_Bond": 54.25517244
+    },
+    {
+       "Date": "7/11/2019",
+       "Predicted_Value": 11,
+       "Actual_Value": 11,
+       "Upper_Bond": 53.98850577
+    },
+    {
+       "Date": "7/12/2019",
+       "Predicted_Value": 9,
+       "Actual_Value": 9,
+       "Upper_Bond": 53.58850577
+    },
+    {
+       "Date": "7/13/2019",
+       "Predicted_Value": 19,
+       "Actual_Value": 19,
+       "Upper_Bond": 52.52183911
+    },
+    {
+       "Date": "7/14/2019",
+       "Predicted_Value": 8,
+       "Actual_Value": 8,
+       "Upper_Bond": 52.35517244
+    },
+    {
+       "Date": "7/15/2019",
+       "Predicted_Value": 21,
+       "Actual_Value": 21,
+       "Upper_Bond": 52.52183911
+    },
+    {
+       "Date": "7/16/2019",
+       "Predicted_Value": 12,
+       "Actual_Value": 12,
+       "Upper_Bond": 52.75517244
+    },
+    {
+       "Date": "7/17/2019",
+       "Predicted_Value": 20,
+       "Actual_Value": 20,
+       "Upper_Bond": 52.85517244
+    },
+    {
+       "Date": "7/18/2019",
+       "Predicted_Value": 11,
+       "Actual_Value": 11,
+       "Upper_Bond": 52.98850577
+    },
+    {
+       "Date": "7/19/2019",
+       "Predicted_Value": 12,
+       "Actual_Value": 12,
+       "Upper_Bond": 53.08850577
+    },
+    {
+       "Date": "7/20/2019",
+       "Predicted_Value": 11,
+       "Actual_Value": 11,
+       "Upper_Bond": 53.12183911
+    },
+    {
+       "Date": "7/21/2019",
+       "Predicted_Value": "0",
+       "Actual_Value": "0",
+       "Upper_Bond": 52.95517244
+    },
+    {
+       "Date": "7/22/2019",
+       "Predicted_Value": 9,
+       "Actual_Value": 9,
+       "Upper_Bond": 53.08850577
+    },
+    {
+       "Date": "7/23/2019",
+       "Predicted_Value": 5,
+       "Actual_Value": 5,
+       "Upper_Bond": 53.25517244
+    },
+    {
+       "Date": "7/24/2019",
+       "Predicted_Value": 9,
+       "Actual_Value": 9,
+       "Upper_Bond": 53.32183911
+    },
+    {
+       "Date": "7/25/2019",
+       "Predicted_Value": 6,
+       "Actual_Value": 6,
+       "Upper_Bond": 53.12183911
+    },
+    {
+       "Date": "7/26/2019",
+       "Predicted_Value": 6,
+       "Actual_Value": 6,
+       "Upper_Bond": 52.85517244
+    },
+    {
+       "Date": "7/27/2019",
+       "Predicted_Value": 5,
+       "Actual_Value": 5,
+       "Upper_Bond": 52.68850577
+    },
+    {
+       "Date": "7/28/2019",
+       "Predicted_Value": 3,
+       "Actual_Value": 3,
+       "Upper_Bond": 52.48850577
+    },
+    {
+       "Date": "7/29/2019",
+       "Predicted_Value": 8,
+       "Actual_Value": 8,
+       "Upper_Bond": 52.05517244
+    },
+    {
+       "Date": "7/30/2019",
+       "Predicted_Value": 7,
+       "Actual_Value": 7,
+       "Upper_Bond": 52.28850577
+    },
+    {
+       "Date": "7/31/2019",
+       "Predicted_Value": 20,
+       "Actual_Value": 20,
+       "Upper_Bond": 52.35517244
+    },
+    {
+       "Date": "8/1/2019",
+       "Predicted_Value": 5,
+       "Actual_Value": 5,
+       "Upper_Bond": 51.95517244
+    },
+    {
+       "Date": "8/2/2019",
+       "Predicted_Value": 7,
+       "Actual_Value": 7,
+       "Upper_Bond": 50.82183911
+    },
+    {
+       "Date": "8/3/2019",
+       "Predicted_Value": 4,
+       "Actual_Value": 4,
+       "Upper_Bond": 50.52183911
+    },
+    {
+       "Date": "8/4/2019",
+       "Predicted_Value": "0",
+       "Actual_Value": "0",
+       "Upper_Bond": 50.12183911
+    },
+    {
+       "Date": "8/5/2019",
+       "Predicted_Value": 59,
+       "Actual_Value": 59,
+       "Upper_Bond": 51.42183911
+    },
+    {
+       "Date": "8/6/2019",
+       "Predicted_Value": 12,
+       "Actual_Value": 12,
+       "Upper_Bond": 51.68850577
+    },
+    {
+       "Date": "8/7/2019",
+       "Predicted_Value": 7,
+       "Actual_Value": 7,
+       "Upper_Bond": 51.65517244
+    },
+    {
+       "Date": "8/8/2019",
+       "Predicted_Value": 9,
+       "Actual_Value": 9,
+       "Upper_Bond": 51.32183911
+    },
+    {
+       "Date": "8/9/2019",
+       "Predicted_Value": 15,
+       "Actual_Value": 15,
+       "Upper_Bond": 51.32183911
+    },
+    {
+       "Date": "8/10/2019",
+       "Predicted_Value": 7,
+       "Actual_Value": 7,
+       "Upper_Bond": 51.18850577
+    },
+    {
+       "Date": "8/11/2019",
+       "Predicted_Value": 1,
+       "Actual_Value": 1,
+       "Upper_Bond": 50.92183911
+    },
+    {
+       "Date": "8/12/2019",
+       "Predicted_Value": 23,
+       "Actual_Value": 23,
+       "Upper_Bond": 51.05517244
+    },
+    {
+       "Date": "8/13/2019",
+       "Predicted_Value": 16,
+       "Actual_Value": 16,
+       "Upper_Bond": 51.32183911
+    },
+    {
+       "Date": "8/14/2019",
+       "Predicted_Value": 8,
+       "Actual_Value": 8,
+       "Upper_Bond": 50.88850577
+    },
+    {
+       "Date": "8/15/2019",
+       "Predicted_Value": 7,
+       "Actual_Value": 7,
+       "Upper_Bond": 50.72183911
+    },
+    {
+       "Date": "8/16/2019",
+       "Predicted_Value": 18,
+       "Actual_Value": 18,
+       "Upper_Bond": 50.65517244
+    },
+    {
+       "Date": "8/17/2019",
+       "Predicted_Value": 12,
+       "Actual_Value": 12,
+       "Upper_Bond": 50.68850577
+    },
+    {
+       "Date": "8/18/2019",
+       "Predicted_Value": 1,
+       "Actual_Value": 1,
+       "Upper_Bond": 50.32183911
+    },
+    {
+       "Date": "8/19/2019",
+       "Predicted_Value": 9,
+       "Actual_Value": 9,
+       "Upper_Bond": 50.25517244
+    },
+    {
+       "Date": "8/20/2019",
+       "Predicted_Value": 11,
+       "Actual_Value": 11,
+       "Upper_Bond": 50.62183911
+    },
+    {
+       "Date": "8/21/2019",
+       "Predicted_Value": 18,
+       "Actual_Value": 18,
+       "Upper_Bond": 50.92183911
+    },
+    {
+       "Date": "8/22/2019",
+       "Predicted_Value": 6,
+       "Actual_Value": 6,
+       "Upper_Bond": 50.95517244
+    },
+    {
+       "Date": "8/23/2019",
+       "Predicted_Value": 15,
+       "Actual_Value": 15,
+       "Upper_Bond": 51.15517244
+    },
+    {
+       "Date": "8/24/2019",
+       "Predicted_Value": 10,
+       "Actual_Value": 10,
+       "Upper_Bond": 51.28850577
+    },
+    {
+       "Date": "8/25/2019",
+       "Predicted_Value": "0",
+       "Actual_Value": "0",
+       "Upper_Bond": 51.08850577
+    },
+    {
+       "Date": "8/26/2019",
+       "Predicted_Value": 6,
+       "Actual_Value": 6,
+       "Upper_Bond": 51.12183911
+    },
+    {
+       "Date": "8/27/2019",
+       "Predicted_Value": 5,
+       "Actual_Value": 5,
+       "Upper_Bond": 51.18850577
+    },
+    {
+       "Date": "8/28/2019",
+       "Predicted_Value": 9,
+       "Actual_Value": 9,
+       "Upper_Bond": 51.22183911
+    },
+    {
+       "Date": "8/29/2019",
+       "Predicted_Value": 13,
+       "Actual_Value": 13,
+       "Upper_Bond": 51.42183911
+    },
+    {
+       "Date": "8/30/2019",
+       "Predicted_Value": 28,
+       "Actual_Value": 28,
+       "Upper_Bond": 51.68850577
+    },
+    {
+       "Date": "8/31/2019",
+       "Predicted_Value": 9,
+       "Actual_Value": 9,
+       "Upper_Bond": 51.82183911
+    },
+    {
+       "Date": "9/1/2019",
+       "Predicted_Value": 2,
+       "Actual_Value": 2,
+       "Upper_Bond": 51.65517244
+    },
+    {
+       "Date": "9/2/2019",
+       "Predicted_Value": 6,
+       "Actual_Value": 6,
+       "Upper_Bond": 51.72183911
+    },
+    {
+       "Date": "9/3/2019",
+       "Predicted_Value": 6,
+       "Actual_Value": 6,
+       "Upper_Bond": 51.92183911
+    },
+    {
+       "Date": "9/4/2019",
+       "Predicted_Value": 21,
+       "Actual_Value": 21,
+       "Upper_Bond": 50.65517244
+    },
+    {
+       "Date": "9/5/2019",
+       "Predicted_Value": 18,
+       "Actual_Value": 18,
+       "Upper_Bond": 50.85517244
+    },
+    {
+       "Date": "9/6/2019",
+       "Predicted_Value": 11,
+       "Actual_Value": 11,
+       "Upper_Bond": 50.98850577
+    },
+    {
+       "Date": "9/7/2019",
+       "Predicted_Value": 8,
+       "Actual_Value": 8,
+       "Upper_Bond": 50.95517244
+    },
+    {
+       "Date": "9/8/2019",
+       "Predicted_Value": "0",
+       "Actual_Value": "0",
+       "Upper_Bond": 50.45517244
+    },
+    {
+       "Date": "9/9/2019",
+       "Predicted_Value": 16,
+       "Actual_Value": 16,
+       "Upper_Bond": 50.75517244
+    },
+    {
+       "Date": "9/10/2019",
+       "Predicted_Value": 6,
+       "Actual_Value": 6,
+       "Upper_Bond": 50.92183911
+    },
+    {
+       "Date": "9/11/2019",
+       "Predicted_Value": 12,
+       "Actual_Value": 12,
+       "Upper_Bond": 50.55517244
+    },
+    {
+       "Date": "9/12/2019",
+       "Predicted_Value": 17,
+       "Actual_Value": 17,
+       "Upper_Bond": 50.58850577
+    },
+    {
+       "Date": "9/13/2019",
+       "Predicted_Value": 16,
+       "Actual_Value": 16,
+       "Upper_Bond": 50.85517244
+    },
+    {
+       "Date": "9/14/2019",
+       "Predicted_Value": 18,
+       "Actual_Value": 18,
+       "Upper_Bond": 51.22183911
+    },
+    {
+       "Date": "9/15/2019",
+       "Predicted_Value": 6,
+       "Actual_Value": 6,
+       "Upper_Bond": 50.82183911
+    },
+    {
+       "Date": "9/16/2019",
+       "Predicted_Value": 280,
+       "Actual_Value": 280,
+       "Upper_Bond": 59.75517244
+    },
+    {
+       "Date": "9/17/2019",
+       "Predicted_Value": 7,
+       "Actual_Value": 7,
+       "Upper_Bond": 59.95517244
+    },
+    {
+       "Date": "9/18/2019",
+       "Predicted_Value": 14,
+       "Actual_Value": 14,
+       "Upper_Bond": 60.12183911
+    },
+    {
+       "Date": "9/19/2019",
+       "Predicted_Value": 20,
+       "Actual_Value": 20,
+       "Upper_Bond": 60.42183911
+    },
+    {
+       "Date": "9/20/2019",
+       "Predicted_Value": 9,
+       "Actual_Value": 9,
+       "Upper_Bond": 60.12183911
+    },
+    {
+       "Date": "9/21/2019",
+       "Predicted_Value": 15,
+       "Actual_Value": 15,
+       "Upper_Bond": 60.42183911
+    },
+    {
+       "Date": "9/22/2019",
+       "Predicted_Value": 2,
+       "Actual_Value": 2,
+       "Upper_Bond": 59.98850577
+    },
+    {
+       "Date": "9/23/2019",
+       "Predicted_Value": 5,
+       "Actual_Value": 5,
+       "Upper_Bond": 59.82183911
+    },
+    {
+       "Date": "9/24/2019",
+       "Predicted_Value": 5,
+       "Actual_Value": 5,
+       "Upper_Bond": 59.98850577
+    },
+    {
+       "Date": "9/25/2019",
+       "Predicted_Value": 11,
+       "Actual_Value": 11,
+       "Upper_Bond": 60.15517244
+    },
+    {
+       "Date": "9/26/2019",
+       "Predicted_Value": 8,
+       "Actual_Value": 8,
+       "Upper_Bond": 60.25517244
+    },
+    {
+       "Date": "9/27/2019",
+       "Predicted_Value": 8,
+       "Actual_Value": 8,
+       "Upper_Bond": 60.22183911
+    },
+    {
+       "Date": "9/28/2019",
+       "Predicted_Value": 6,
+       "Actual_Value": 6,
+       "Upper_Bond": 59.98850577
+    },
+    {
+       "Date": "9/29/2019",
+       "Predicted_Value": 2,
+       "Actual_Value": 2,
+       "Upper_Bond": 59.12183911
+    },
+    {
+       "Date": "9/30/2019",
+       "Predicted_Value": 6,
+       "Actual_Value": 6,
+       "Upper_Bond": 59.02183911
+    },
+    {
+       "Date": "10/1/2019",
+       "Predicted_Value": 2,
+       "Actual_Value": 2,
+       "Upper_Bond": 59.02183911
+    },
+    {
+       "Date": "10/2/2019",
+       "Predicted_Value": "0",
+       "Actual_Value": "0",
+       "Upper_Bond": 58.82183911
+    },
+    {
+       "Date": "10/3/2019",
+       "Predicted_Value": 11,
+       "Actual_Value": 11,
+       "Upper_Bond": 58.98850577
+    },
+    {
+       "Date": "10/4/2019",
+       "Predicted_Value": 8,
+       "Actual_Value": 8,
+       "Upper_Bond": 58.55517244
+    },
+    {
+       "Date": "10/5/2019",
+       "Predicted_Value": 3,
+       "Actual_Value": 3,
+       "Upper_Bond": 58.05517244
+    },
+    {
+       "Date": "10/6/2019",
+       "Predicted_Value": "0",
+       "Actual_Value": "0",
+       "Upper_Bond": 57.68850577
+    },
+    {
+       "Date": "10/7/2019",
+       "Predicted_Value": 7,
+       "Actual_Value": 7,
+       "Upper_Bond": 57.65517244
+    },
+    {
+       "Date": "10/8/2019",
+       "Predicted_Value": 6,
+       "Actual_Value": 6,
+       "Upper_Bond": 57.85517244
+    },
+    {
+       "Date": "10/9/2019",
+       "Predicted_Value": 6,
+       "Actual_Value": 6,
+       "Upper_Bond": 57.52183911
+    },
+    {
+       "Date": "10/10/2019",
+       "Predicted_Value": 7,
+       "Actual_Value": 7,
+       "Upper_Bond": 57.55517244
+    },
+    {
+       "Date": "10/11/2019",
+       "Predicted_Value": 8,
+       "Actual_Value": 8,
+       "Upper_Bond": 57.42183911
+    },
+    {
+       "Date": "10/12/2019",
+       "Predicted_Value": 10,
+       "Actual_Value": 10,
+       "Upper_Bond": 57.18850577
+    },
+    {
+       "Date": "10/13/2019",
+       "Predicted_Value": 2,
+       "Actual_Value": 2,
+       "Upper_Bond": 56.72183911
+    },
+    {
+       "Date": "10/14/2019",
+       "Predicted_Value": 10,
+       "Actual_Value": 10,
+       "Upper_Bond": 56.45517244
+    },
+    {
+       "Date": "10/15/2019",
+       "Predicted_Value": 11,
+       "Actual_Value": 11,
+       "Upper_Bond": 56.62183911
+    },
+    {
+       "Date": "10/16/2019",
+       "Predicted_Value": 9,
+       "Actual_Value": 9,
+       "Upper_Bond": 47.58850577
+    },
+    {
+       "Date": "10/17/2019",
+       "Predicted_Value": 5,
+       "Actual_Value": 5,
+       "Upper_Bond": 47.52183911
+    },
+    {
+       "Date": "10/18/2019",
+       "Predicted_Value": 13,
+       "Actual_Value": 13,
+       "Upper_Bond": 47.48850577
+    },
+    {
+       "Date": "10/19/2019",
+       "Predicted_Value": 9,
+       "Actual_Value": 9,
+       "Upper_Bond": 47.12183911
+    },
+    {
+       "Date": "10/20/2019",
+       "Predicted_Value": "0",
+       "Actual_Value": "0",
+       "Upper_Bond": 46.82183911
+    },
+    {
+       "Date": "10/21/2019",
+       "Predicted_Value": 5,
+       "Actual_Value": 5,
+       "Upper_Bond": 46.48850577
+    },
+    {
+       "Date": "10/22/2019",
+       "Predicted_Value": 5,
+       "Actual_Value": 5,
+       "Upper_Bond": 46.58850577
+    },
+    {
+       "Date": "10/23/2019",
+       "Predicted_Value": 17,
+       "Actual_Value": 17,
+       "Upper_Bond": 46.98850577
+    },
+    {
+       "Date": "10/24/2019",
+       "Predicted_Value": 13,
+       "Actual_Value": 13,
+       "Upper_Bond": 47.25517244
+    },
+    {
+       "Date": "10/25/2019",
+       "Predicted_Value": 14,
+       "Actual_Value": 14,
+       "Upper_Bond": 47.35517244
+    },
+    {
+       "Date": "10/26/2019",
+       "Predicted_Value": 15,
+       "Actual_Value": 15,
+       "Upper_Bond": 47.58850577
+    },
+    {
+       "Date": "10/27/2019",
+       "Predicted_Value": 4,
+       "Actual_Value": 4,
+       "Upper_Bond": 47.45517244
+    },
+    {
+       "Date": "10/28/2019",
+       "Predicted_Value": 7,
+       "Actual_Value": 7,
+       "Upper_Bond": 47.48850577
+    },
+    {
+       "Date": "10/29/2019",
+       "Predicted_Value": 8,
+       "Actual_Value": 8,
+       "Upper_Bond": 47.68850577
+    },
+    {
+       "Date": "10/30/2019",
+       "Predicted_Value": 12,
+       "Actual_Value": 12,
+       "Upper_Bond": 47.88850577
+    },
+    {
+       "Date": "10/31/2019",
+       "Predicted_Value": 3,
+       "Actual_Value": 3,
+       "Upper_Bond": 47.92183911
+    },
+    {
+       "Date": "11/1/2019",
+       "Predicted_Value": 5,
+       "Actual_Value": 5,
+       "Upper_Bond": 48.08850577
+    },
+    {
+       "Date": "11/2/2019",
+       "Predicted_Value": 7,
+       "Actual_Value": 7,
+       "Upper_Bond": 47.95517244
+    },
+    {
+       "Date": "11/3/2019",
+       "Predicted_Value": "0",
+       "Actual_Value": "0",
+       "Upper_Bond": 47.68850577
+    },
+    {
+       "Date": "11/4/2019",
+       "Predicted_Value": 23,
+       "Actual_Value": 23,
+       "Upper_Bond": 48.35517244
+    },
+    {
+       "Date": "11/5/2019",
+       "Predicted_Value": 12,
+       "Actual_Value": 12,
+       "Upper_Bond": 48.75517244
+    },
+    {
+       "Date": "11/6/2019",
+       "Predicted_Value": 8,
+       "Actual_Value": 8,
+       "Upper_Bond": 48.78850577
+    },
+    {
+       "Date": "11/7/2019",
+       "Predicted_Value": 5,
+       "Actual_Value": 5,
+       "Upper_Bond": 48.75517244
+    },
+    {
+       "Date": "11/8/2019",
+       "Predicted_Value": 14,
+       "Actual_Value": 14,
+       "Upper_Bond": 49.02183911
+    },
+    {
+       "Date": "11/9/2019",
+       "Predicted_Value": 15,
+       "Actual_Value": 15,
+       "Upper_Bond": 49.28850577
+    },
+    {
+       "Date": "11/10/2019",
+       "Predicted_Value": "0",
+       "Actual_Value": "0",
+       "Upper_Bond": 49.02183911
+    },
+    {
+       "Date": "11/11/2019",
+       "Predicted_Value": 7,
+       "Actual_Value": 7,
+       "Upper_Bond": 48.92183911
+    },
+    {
+       "Date": "11/12/2019",
+       "Predicted_Value": 5,
+       "Actual_Value": 5,
+       "Upper_Bond": 49.02183911
+    },
+    {
+       "Date": "11/13/2019",
+       "Predicted_Value": 7,
+       "Actual_Value": 7,
+       "Upper_Bond": 48.92183911
+    },
+    {
+       "Date": "11/14/2019",
+       "Predicted_Value": 4,
+       "Actual_Value": 4,
+       "Upper_Bond": 48.68850577
+    },
+    {
+       "Date": "11/15/2019",
+       "Predicted_Value": 6,
+       "Actual_Value": 6,
+       "Upper_Bond": 48.58850577
+    },
+    {
+       "Date": "11/16/2019",
+       "Predicted_Value": 5,
+       "Actual_Value": 5,
+       "Upper_Bond": 48.58850577
+    },
+    {
+       "Date": "11/17/2019",
+       "Predicted_Value": "0",
+       "Actual_Value": "0",
+       "Upper_Bond": 48.15517244
+    },
+    {
+       "Date": "11/18/2019",
+       "Predicted_Value": 8,
+       "Actual_Value": 8,
+       "Upper_Bond": 48.12183911
+    },
+    {
+       "Date": "11/19/2019",
+       "Predicted_Value": 7,
+       "Actual_Value": 7,
+       "Upper_Bond": 48.35517244
+    },
+    {
+       "Date": "11/20/2019",
+       "Predicted_Value": 9,
+       "Actual_Value": 9,
+       "Upper_Bond": 48.48850577
+    },
+    {
+       "Date": "11/21/2019",
+       "Predicted_Value": 11,
+       "Actual_Value": 11,
+       "Upper_Bond": 48.68850577
+    },
+    {
+       "Date": "11/22/2019",
+       "Predicted_Value": 52,
+       "Actual_Value": 52,
+       "Upper_Bond": 49.85517244
+    },
+    {
+       "Date": "11/23/2019",
+       "Predicted_Value": 5,
+       "Actual_Value": 5,
+       "Upper_Bond": 49.58850577
+    },
+    {
+       "Date": "11/24/2019",
+       "Predicted_Value": "0",
+       "Actual_Value": "0",
+       "Upper_Bond": 49.12183911
+    },
+    {
+       "Date": "11/25/2019",
+       "Predicted_Value": 25,
+       "Actual_Value": 25,
+       "Upper_Bond": 49.45517244
+    },
+    {
+       "Date": "11/26/2019",
+       "Predicted_Value": 8,
+       "Actual_Value": 8,
+       "Upper_Bond": 49.58850577
+    },
+    {
+       "Date": "11/27/2019",
+       "Predicted_Value": 5,
+       "Actual_Value": 5,
+       "Upper_Bond": 49.52183911
+    },
+    {
+       "Date": "11/28/2019",
+       "Predicted_Value": 6,
+       "Actual_Value": 6,
+       "Upper_Bond": 49.45517244
+    },
+    {
+       "Date": "11/29/2019",
+       "Predicted_Value": 13,
+       "Actual_Value": 13,
+       "Upper_Bond": 49.48850577
+    },
+    {
+       "Date": "11/30/2019",
+       "Predicted_Value": 8,
+       "Actual_Value": 8,
+       "Upper_Bond": 49.65517244
+    },
+    {
+       "Date": "12/1/2019",
+       "Predicted_Value": "0",
+       "Actual_Value": "0",
+       "Upper_Bond": 49.48850577
+    },
+    {
+       "Date": "12/2/2019",
+       "Predicted_Value": 5,
+       "Actual_Value": 5,
+       "Upper_Bond": 49.42183911
+    },
+    {
+       "Date": "12/3/2019",
+       "Predicted_Value": 7,
+       "Actual_Value": 7,
+       "Upper_Bond": 49.65517244
+    },
+    {
+       "Date": "12/4/2019",
+       "Predicted_Value": 9,
+       "Actual_Value": 9,
+       "Upper_Bond": 49.18850577
+    },
+    {
+       "Date": "12/5/2019",
+       "Predicted_Value": 16,
+       "Actual_Value": 16,
+       "Upper_Bond": 49.32183911
+    },
+    {
+       "Date": "12/6/2019",
+       "Predicted_Value": 4,
+       "Actual_Value": 4,
+       "Upper_Bond": 49.18850577
+    },
+    {
+       "Date": "12/7/2019",
+       "Predicted_Value": 6,
+       "Actual_Value": 6,
+       "Upper_Bond": 49.22183911
+    },
+    {
+       "Date": "12/8/2019",
+       "Predicted_Value": "0",
+       "Actual_Value": "0",
+       "Upper_Bond": 48.75517244
+    },
+    {
+       "Date": "12/9/2019",
+       "Predicted_Value": 79,
+       "Actual_Value": 79,
+       "Upper_Bond": 50.88850577
+    },
+    {
+       "Date": "12/10/2019",
+       "Predicted_Value": 3,
+       "Actual_Value": 3,
+       "Upper_Bond": 50.98850577
+    },
+    {
+       "Date": "12/11/2019",
+       "Predicted_Value": 9,
+       "Actual_Value": 9,
+       "Upper_Bond": 51.05517244
+    },
+    {
+       "Date": "12/12/2019",
+       "Predicted_Value": 10,
+       "Actual_Value": 10,
+       "Upper_Bond": 51.22183911
+    },
+    {
+       "Date": "12/13/2019",
+       "Predicted_Value": 6,
+       "Actual_Value": 6,
+       "Upper_Bond": 51.18850577
+    },
+    {
+       "Date": "12/14/2019",
+       "Predicted_Value": 7,
+       "Actual_Value": 7,
+       "Upper_Bond": 51.28850577
+    },
+    {
+       "Date": "12/15/2019",
+       "Predicted_Value": "0",
+       "Actual_Value": "0",
+       "Upper_Bond": 51.08850577
+    },
+    {
+       "Date": "12/16/2019",
+       "Predicted_Value": 3,
+       "Actual_Value": 3,
+       "Upper_Bond": 51.02183911
+    }
+ ]

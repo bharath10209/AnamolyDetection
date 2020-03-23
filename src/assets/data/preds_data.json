@@ -1,0 +1,130 @@
+{
+    "CPUWINDOWS": [
+        {
+            "Date": "12/17/2019",
+            "PredVal": 20,
+            "ActualVal" : 22
+        },
+        {
+            "Date": "12/18/2019",
+            "PredVal": 10,
+            "ActualVal" : 11
+        },
+        {
+            "Date": "12/19/2019",
+            "PredVal": 17,
+            "ActualVal" : 17
+        },
+        {
+            "Date": "12/20/2019",
+            "PredVal": 20,
+            "ActualVal" : 22
+        },
+        {
+            "Date": "12/21/2019",
+            "PredVal": 19,
+            "ActualVal" : 21
+        },
+        {
+            "Date": "12/22/2019",
+            "PredVal": 10,
+            "ActualVal" : 9
+        }
+    ],
+    "CPULINUX": [
+        {
+            "Date": "12/17/2019",
+            "PredVal": 0,
+            "ActualVal" : 0
+        },
+        {
+            "Date": "12/18/2019",
+            "PredVal": 0,
+            "ActualVal" : 0
+        },
+        {
+            "Date": "12/19/2019",
+            "PredVal": 1,
+            "ActualVal" : 1
+        },
+        {
+            "Date": "12/20/2019",
+            "PredVal": 1,
+            "ActualVal" : 1
+        },
+        {
+            "Date": "12/21/2019",
+            "PredVal": 1,
+            "ActualVal" : 1
+        },
+        {
+            "Date": "12/22/2019",
+            "PredVal": 0,
+            "ActualVal" : 1
+        }
+    ],
+    "LinkDown" : [
+        {
+            "Date": "12/17/2019",
+            "PredVal": 2,
+            "ActualVal" : 6
+        },
+        {
+            "Date": "12/18/2019",
+            "PredVal": 9,
+            "ActualVal" : 3
+        },
+        {
+            "Date": "12/19/2019",
+            "PredVal": 7,
+            "ActualVal" : 4
+        },
+        {
+            "Date": "12/20/2019",
+            "PredVal": 11,
+            "ActualVal" :11
+        },
+        {
+            "Date": "12/21/2019",
+            "PredVal": 11,
+            "ActualVal" : 8
+        },
+        {
+            "Date": "12/17/2019",
+            "PredVal": 6,
+            "ActualVal" : 0
+        }
+    ],
+    "CPUMemory_Preds" : [
+        {
+            "Date": "12/17/2019",
+            "PredVal": 23,
+            "ActualVal" : 24
+        },
+        {
+            "Date": "12/18/2019",
+            "PredVal": 13,
+            "ActualVal" : 13
+        },
+        {
+            "Date": "12/19/2019",
+            "PredVal": 17,
+            "ActualVal" : 19
+        },
+        {
+            "Date": "12/20/2019",
+            "PredVal": 23,
+            "ActualVal" : 24
+        },
+        {
+            "Date": "12/21/2019",
+            "PredVal": 23,
+            "ActualVal" : 24
+        },
+        {
+            "Date": "12/17/2019",
+            "PredVal": 14,
+            "ActualVal" : 14
+        }
+    ]
+}
