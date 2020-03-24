@@ -67,7 +67,7 @@ export class TicketCounterGraphComponent implements OnInit{
 
     this.xAxisData = graphData.map(result => {
       const newDate = new Date(result.Date);
-      const latest_date = this.datepipe.transform(newDate, "EEEE, MMM d, y");
+      const latest_date = this.datepipe.transform(newDate, "MMM d");
       return latest_date;
     });
 

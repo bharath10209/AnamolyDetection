@@ -1,15 +1,16 @@
 import { Component, OnInit } from "@angular/core";
 import { ChartDataSets, ChartOptions } from "chart.js";
 import { Color, Label } from "ng2-charts";
-import { CpuServicesService } from "src/app/shared/services/cpu-services.service";
+import { CpuLinuxServicesService } from "src/app/shared/services/cpu-linux-services.service";
 import { ICPUAnomaly } from "src/assets/model/cpu-interface";
 import { DatePipe } from "@angular/common";
+
 @Component({
-  selector: "app-cpu-utilization-graph",
-  templateUrl: "./cpu-utilization-graph.component.html",
-  styleUrls: ["./cpu-utilization-graph.component.scss"]
+  selector: 'app-cpu-linux-utilisation',
+  templateUrl: './cpu-linux-utilisation.component.html',
+  styleUrls: ['./cpu-linux-utilisation.component.scss']
 })
-export class CpuUtilizationGraphComponent implements OnInit {
+export class CpuLinuxUtilisationComponent implements OnInit {
 
   public graphData;
   public yAxisData = [];
@@ -36,13 +37,13 @@ export class CpuUtilizationGraphComponent implements OnInit {
   public lineChartType = "line";
   public lineChartPlugins = [];
   constructor(
-    private anomalyservice: CpuServicesService,
+    private anomalyservice: CpuLinuxServicesService,
     public datepipe: DatePipe
   ) {}
 
   ngOnInit() {
     this.anomalyservice.getAnomalyData().subscribe(response => {
-      //  console.log(response);
+       console.log(response);
        this.createGraph(response.slice(0,30))
       });
       this.anomalyservice.myData.subscribe(response =>
@@ -50,13 +51,13 @@ export class CpuUtilizationGraphComponent implements OnInit {
       );
   }
 
-  createGraph(graphData: ICPUAnomaly[]): void {
+  createGraph(graphData: any[]): void {
     this.yAxisData = graphData.map(result => {
-      return result.Predicted_Value;
+      return result.Value;
     });
     
     this.yAxisActualData = graphData.map(result =>{
-      return result.Actual_Value;
+      return result.Actual;
     });
 
     this.yAxisunboundData = graphData.map(result =>{
@@ -82,4 +83,5 @@ export class CpuUtilizationGraphComponent implements OnInit {
 
     this.chartReady = true;
   }
+
 }

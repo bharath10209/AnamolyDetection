@@ -31,6 +31,12 @@
         Linux
       </ng-template>
       <app-data-linux-component [heroes]="SlicedValues"></app-data-linux-component>
+      <div style="display: flex;">
+        <app-cpu-linux-utilisation></app-cpu-linux-utilisation>
+        <div style="height: 250px;">
+          <p></p>
+        </div>
+      </div>
     </mat-tab>
     <mat-tab>
       <ng-template mat-tab-label>
@@ -38,12 +44,14 @@
       </ng-template>
       <div>
         <app-data-network-component [heroes]="SlicedValues"></app-data-network-component>
-      <div style="display: flex;">
-        <app-windows-memory-utilization-graph></app-windows-memory-utilization-graph>
-        <div style="height: 250px;"><p></p></div>
+        <div style="display: flex;">
+          <app-windows-memory-utilization-graph></app-windows-memory-utilization-graph>
+          <div style="height: 250px;">
+            <p></p>
+          </div>
+        </div>
       </div>
-      </div>
-      
+
     </mat-tab>
   </mat-tab-group>
 </div>

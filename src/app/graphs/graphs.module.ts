@@ -8,6 +8,7 @@ import { WindowsMemoryUtilizationTableComponent } from "./components/windows-mem
 import { WindowsCpuUtilizationTableComponent } from "./components/windows-cpu-utilization-table/windows-cpu-utilization-table.component";
 import { WindowsMemoryUtilizationGraphComponent } from "./components/windows-memory-utilization-graph/windows-memory-utilization-graph.component";
 import { CpuUtilizationGraphComponent } from "./components/cpu-utilization-graph/cpu-utilization-graph.component";
+import { CpuLinuxUtilisationComponent } from './components/cpu-linux-utilisation/cpu-linux-utilisation.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { CpuUtilizationGraphComponent } from "./components/cpu-utilization-graph
     CpuUtilizationGraphComponent,
     WindowsMemoryUtilizationTableComponent,
     WindowsCpuUtilizationTableComponent,
-    WindowsMemoryUtilizationGraphComponent
+    WindowsMemoryUtilizationGraphComponent,
+    CpuLinuxUtilisationComponent
   ],
   imports: [CommonModule, ChartsModule, SharedModule],
   exports: [
@@ -26,7 +28,8 @@ import { CpuUtilizationGraphComponent } from "./components/cpu-utilization-graph
     CpuUtilizationGraphComponent,
     WindowsMemoryUtilizationTableComponent,
     WindowsCpuUtilizationTableComponent,
-    WindowsMemoryUtilizationGraphComponent
+    WindowsMemoryUtilizationGraphComponent,
+    CpuLinuxUtilisationComponent
   ]
 })
 export class GraphsModule {}

@@ -1,0 +1,644 @@
+[
+    {
+      "Date": "9/1/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 7.878911304
+    },
+    {
+      "Date": "9/2/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 7.778911304
+    },
+    {
+      "Date": "9/3/2019",
+      "Value": 1,
+      "Actual": 1,
+      "upper_bond": 7.745577971
+    },
+    {
+      "Date": "9/4/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 7.645577971
+    },
+    {
+      "Date": "9/5/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 7.445577971
+    },
+    {
+      "Date": "9/6/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 7.278911304
+    },
+    {
+      "Date": "9/7/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 7.145577971
+    },
+    {
+      "Date": "9/8/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 7.012244638
+    },
+    {
+      "Date": "9/9/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 6.945577971
+    },
+    {
+      "Date": "9/10/2019",
+      "Value": 1,
+      "Actual": 1,
+      "upper_bond": 6.912244638
+    },
+    {
+      "Date": "9/11/2019",
+      "Value": 1,
+      "Actual": 1,
+      "upper_bond": 6.878911304
+    },
+    {
+      "Date": "9/12/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 6.778911304
+    },
+    {
+      "Date": "9/13/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 6.678911304
+    },
+    {
+      "Date": "9/14/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 6.578911304
+    },
+    {
+      "Date": "9/15/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 6.445577971
+    },
+    {
+      "Date": "9/16/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 6.378911304
+    },
+    {
+      "Date": "9/17/2019",
+      "Value": 1,
+      "Actual": 1,
+      "upper_bond": 6.345577971
+    },
+    {
+      "Date": "9/18/2019",
+      "Value": 1,
+      "Actual": 1,
+      "upper_bond": 6.245577971
+    },
+    {
+      "Date": "9/19/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 6.112244638
+    },
+    {
+      "Date": "9/20/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 6.012244638
+    },
+    {
+      "Date": "9/21/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.978911304
+    },
+    {
+      "Date": "9/22/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.912244638
+    },
+    {
+      "Date": "9/23/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.912244638
+    },
+    {
+      "Date": "9/24/2019",
+      "Value": 1,
+      "Actual": 1,
+      "upper_bond": 5.945577971
+    },
+    {
+      "Date": "9/25/2019",
+      "Value": 1,
+      "Actual": 1,
+      "upper_bond": 5.978911304
+    },
+    {
+      "Date": "9/26/2019",
+      "Value": 1,
+      "Actual": 1,
+      "upper_bond": 6.012244638
+    },
+    {
+      "Date": "9/27/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 6.012244638
+    },
+    {
+      "Date": "9/28/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 6.012244638
+    },
+    {
+      "Date": "9/29/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.978911304
+    },
+    {
+      "Date": "9/30/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.978911304
+    },
+    {
+      "Date": "10/1/2019",
+      "Value": 1,
+      "Actual": 1,
+      "upper_bond": 6.012244638
+    },
+    {
+      "Date": "10/2/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 6.012244638
+    },
+    {
+      "Date": "10/3/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.978911304
+    },
+    {
+      "Date": "10/4/2019",
+      "Value": 1,
+      "Actual": 1,
+      "upper_bond": 6.012244638
+    },
+    {
+      "Date": "10/5/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 6.012244638
+    },
+    {
+      "Date": "10/6/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 6.012244638
+    },
+    {
+      "Date": "10/7/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 6.012244638
+    },
+    {
+      "Date": "10/8/2019",
+      "Value": 1,
+      "Actual": 1,
+      "upper_bond": 6.045577971
+    },
+    {
+      "Date": "10/9/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 6.045577971
+    },
+    {
+      "Date": "10/10/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 6.012244638
+    },
+    {
+      "Date": "10/11/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.978911304
+    },
+    {
+      "Date": "10/12/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.978911304
+    },
+    {
+      "Date": "10/13/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.978911304
+    },
+    {
+      "Date": "10/14/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.978911304
+    },
+    {
+      "Date": "10/15/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.978911304
+    },
+    {
+      "Date": "10/16/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.978911304
+    },
+    {
+      "Date": "10/17/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.945577971
+    },
+    {
+      "Date": "10/18/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.912244638
+    },
+    {
+      "Date": "10/19/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.912244638
+    },
+    {
+      "Date": "10/20/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.912244638
+    },
+    {
+      "Date": "10/21/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.912244638
+    },
+    {
+      "Date": "10/22/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.912244638
+    },
+    {
+      "Date": "10/23/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.912244638
+    },
+    {
+      "Date": "10/24/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.878911304
+    },
+    {
+      "Date": "10/25/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.845577971
+    },
+    {
+      "Date": "10/26/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.812244638
+    },
+    {
+      "Date": "10/27/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.812244638
+    },
+    {
+      "Date": "10/28/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.812244638
+    },
+    {
+      "Date": "10/29/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.812244638
+    },
+    {
+      "Date": "10/30/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.812244638
+    },
+    {
+      "Date": "10/31/2019",
+      "Value": 1,
+      "Actual": 1,
+      "upper_bond": 5.812244638
+    },
+    {
+      "Date": "11/1/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.812244638
+    },
+    {
+      "Date": "11/2/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.812244638
+    },
+    {
+      "Date": "11/3/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.778911304
+    },
+    {
+      "Date": "11/4/2019",
+      "Value": 1,
+      "Actual": 1,
+      "upper_bond": 5.812244638
+    },
+    {
+      "Date": "11/5/2019",
+      "Value": 2,
+      "Actual": 2,
+      "upper_bond": 5.878911304
+    },
+    {
+      "Date": "11/6/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.878911304
+    },
+    {
+      "Date": "11/7/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.845577971
+    },
+    {
+      "Date": "11/8/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.845577971
+    },
+    {
+      "Date": "11/9/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.845577971
+    },
+    {
+      "Date": "11/10/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.845577971
+    },
+    {
+      "Date": "11/11/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.845577971
+    },
+    {
+      "Date": "11/12/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.845577971
+    },
+    {
+      "Date": "11/13/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.845577971
+    },
+    {
+      "Date": "11/14/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.845577971
+    },
+    {
+      "Date": "11/15/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.845577971
+    },
+    {
+      "Date": "11/16/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.845577971
+    },
+    {
+      "Date": "11/17/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.845577971
+    },
+    {
+      "Date": "11/18/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.845577971
+    },
+    {
+      "Date": "11/19/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.845577971
+    },
+    {
+      "Date": "11/20/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.845577971
+    },
+    {
+      "Date": "11/21/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.845577971
+    },
+    {
+      "Date": "11/22/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.845577971
+    },
+    {
+      "Date": "11/23/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.845577971
+    },
+    {
+      "Date": "11/24/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.845577971
+    },
+    {
+      "Date": "11/25/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.845577971
+    },
+    {
+      "Date": "11/26/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.845577971
+    },
+    {
+      "Date": "11/27/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.845577971
+    },
+    {
+      "Date": "11/28/2019",
+      "Value": 1,
+      "Actual": 1,
+      "upper_bond": 5.878911304
+    },
+    {
+      "Date": "11/29/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.878911304
+    },
+    {
+      "Date": "11/30/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.845577971
+    },
+    {
+      "Date": "12/1/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.845577971
+    },
+    {
+      "Date": "12/2/2019",
+      "Value": 1,
+      "Actual": 1,
+      "upper_bond": 5.878911304
+    },
+    {
+      "Date": "12/3/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.878911304
+    },
+    {
+      "Date": "12/4/2019",
+      "Value": 2,
+      "Actual": 2,
+      "upper_bond": 5.912244638
+    },
+    {
+      "Date": "12/5/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.845577971
+    },
+    {
+      "Date": "12/6/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.845577971
+    },
+    {
+      "Date": "12/7/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.845577971
+    },
+    {
+      "Date": "12/8/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.845577971
+    },
+    {
+      "Date": "12/9/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.845577971
+    },
+    {
+      "Date": "12/10/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.845577971
+    },
+    {
+      "Date": "12/11/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.845577971
+    },
+    {
+      "Date": "12/12/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.845577971
+    },
+    {
+      "Date": "12/13/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.845577971
+    },
+    {
+      "Date": "12/14/2019",
+      "Value": 1,
+      "Actual": 1,
+      "upper_bond": 5.878911304
+    },
+    {
+      "Date": "12/15/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.878911304
+    },
+    {
+      "Date": "12/16/2019",
+      "Value": 0,
+      "Actual": 0,
+      "upper_bond": 5.878911304
+    }
+  ]
